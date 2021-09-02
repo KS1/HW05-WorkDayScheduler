@@ -20,6 +20,10 @@ textarea {
   border-radius: 0;
   border-bottom: 10px solid black;
 }
+/* Added new class to change the font size */
+.leadCurrentDay {
+  font-size: medium;
+}
 
 .description {
   white-space: pre-wrap;
@@ -27,7 +31,7 @@ textarea {
 
 .time-block {
   text-align: center;
-  border-radius: 15px;
+  border-radius: 15px;  
 }
 
 .row {

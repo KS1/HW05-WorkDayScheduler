@@ -20,7 +20,8 @@ textarea {
   border-radius: 0;
   border-bottom: 10px solid black;
 }
-/* Added new class to change the font size */
+
+/* Class to change the font size */
 .leadCurrentDay {
   font-size: medium;
 }

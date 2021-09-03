@@ -4,7 +4,7 @@ Published Site URL: https://ks1.github.io/HW05-WorkDayScheduler/
 
 Source code: https://github.com/KS1/HW05-WorkDayScheduler
 
-Screenshots: https://github.com/KS1/HW05-WorkDayScheduler/blob/main/Work%20Day%20Scheduler%20-%20Screenshot.pdf 
+Screenshots: https://github.com/KS1/HW05-WorkDayScheduler/blob/main/Work%20Day%20Scheduler%20-%20Screenshots.pdf 
 
 ## Completed Tasks
 
